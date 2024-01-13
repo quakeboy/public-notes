@@ -3,4 +3,4 @@ share: "true"
 ---
 
 dude
-[[./Untitled|Untitled]]
+[Untitled](./Untitled.md)
